@@ -1,4 +1,6 @@
-# kali_ip_changer
+# Kali_ip_changer
+<img width="1282" height="276" alt="image" src="https://github.com/user-attachments/assets/91634de8-9758-4be0-8f3b-d524f59ff1dc" />
+
 
 A lightweight, automated Tor IP rotation tool built exclusively for **Kali Linux**. It uses Tor's `ControlPort` (`SIGNAL NEWNYM`) to rotate exit nodes quickly without restarting the Tor service or dropping active circuits.
 
