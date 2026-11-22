@@ -30,7 +30,7 @@ A lightweight, automated Tor IP rotation tool built exclusively for **Kali Linux
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/kali_ip_changer.git
+   git clone https://github.com/ferosinfo/kali_ip_changer.git
    cd kali_ip_changer
    ```
 
