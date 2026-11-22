@@ -69,14 +69,6 @@ A lightweight, automated Tor IP rotation tool built exclusively for **Kali Linux
 
 ---
 
-## 🛠️ CLI Usage with ProxyChains
-
-To route terminal commands through the Tor SOCKS5 proxy, ensure `/etc/proxychains4.conf` has `proxy_dns` enabled and `socks5 127.0.0.1 9050` set at the bottom of the file:
-
-```bash
-proxychains4 curl -s [https://api.ipify.org](https://api.ipify.org)
-```
-
 ---
 
 ## 🙏 Acknowledgements & Credits
